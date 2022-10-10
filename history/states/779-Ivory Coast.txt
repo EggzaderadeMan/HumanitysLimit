@@ -1,14 +1,23 @@
 
 state={
 	id=779
+<<<<<<< Updated upstream
 	name="STATE_779" # Ivory Coast
 	manpower = 3850734
 	resources = {
 		rubber=6
 		rations=10
+=======
+	name="STATE_779"
+	resources={
+		rubber=9.000
+		rations=6.000
+		aluminium=60.000
+>>>>>>> Stashed changes
 	}
-	state_category = pastoral
+
 	history={
+<<<<<<< Updated upstream
 		owner = UNC
 		victory_points = {
 			10803 1
@@ -18,10 +27,26 @@ state={
 			10803 = {
 				naval_base = 1
 			}
+=======
+		owner = WAS
+		add_core_of = WAS
+		buildings = {
+			infrastructure = 3
+
+>>>>>>> Stashed changes
 		}
+
 	}
 
 	provinces={
+<<<<<<< Updated upstream
 		5013 5070 8065 8122 10762 10803
+=======
+		2094 5039 5070 
+>>>>>>> Stashed changes
 	}
+	manpower=3850734
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
 }

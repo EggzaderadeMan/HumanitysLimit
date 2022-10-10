@@ -12,7 +12,8 @@ state={
 	
 	
 	history={
-		owner = UNC
+		owner = KHA
+		add_core_of = KHA
 		victory_points = {
 			2096 1
 		}

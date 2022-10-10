@@ -1,0 +1,24 @@
+state={
+	id=855
+	name="STATE_855"
+	resources={
+		rations=6
+		aluminium=13
+	}
+
+	history={
+		owner = DGB
+		add_core_of = DGB
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		7983 8096 
+	}
+	manpower=3163600
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

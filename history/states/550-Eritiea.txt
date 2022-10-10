@@ -11,11 +11,16 @@ state=
 	
 	history=
 	{
+<<<<<<< Updated upstream
 		add_core_of = ETH
 		owner = UNC
 		victory_points = {
 			12766 1
 		}
+=======
+		add_core_of = RED
+		owner = RED
+>>>>>>> Stashed changes
 		buildings = {
 			infrastructure = 4
 			air_base = 3

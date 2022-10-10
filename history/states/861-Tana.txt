@@ -1,0 +1,30 @@
+state=
+{
+	id=861
+	name="STATE_861"
+	manpower = 10000000
+	resources={
+		tungsten=10
+		rations=22
+	}
+	
+	state_category = town
+
+	history=
+	{
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+		victory_points = { 
+			1984 1.0 
+		}
+		add_core_of = TAC
+		owner = TAC
+	}
+
+	provinces=
+	{ 1984 2040 4918 4954 12862 13137  	}
+}

@@ -1,7 +1,8 @@
-state=
-{
+
+state={
 	id=269
 	name="STATE_269"
+<<<<<<< Updated upstream
 	manpower = 344700
 	resources={
 		tungsten=5
@@ -23,9 +24,34 @@ state=
 			10833 = {
 				naval_base = 1
 			}
+=======
+	resources={
+		rations=14.000
+	}
+
+	history={
+		add_core_of = FRO
+		owner = FRO
+		victory_points = {
+			5068 1 
 		}
+		buildings = {
+			infrastructure = 2
+
+>>>>>>> Stashed changes
+		}
+
 	}
+
 	provinces={
+<<<<<<< Updated upstream
 		1905 5068 8094 10777 10833 10921 12759 12814
+=======
+		1905 1964 1966 2020 2063 4909 4995 5068 8036 8094 10775 10818 10891 10921 12714 12757 12812 12814 
+>>>>>>> Stashed changes
 	}
+	manpower=344700
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
 }
